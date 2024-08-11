@@ -1,0 +1,9 @@
+1- 105 ohm resistor            × 2 
+2- 65 kohm resistor            × 1
+3- Temperature Sensor (LM35)   × 1 
+4- Humidity Sensor (HIH-5030)  × 1 
+5- Microcontroller (ATmega32)  × 1
+6- Transistor (2N3706)         × 1 
+7- DC Motor with inertia       × 1
+8- 12V Dc Source               × 1
+9- Virtual Terminal            × 1  
